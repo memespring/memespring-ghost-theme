@@ -42,6 +42,10 @@ h2{
   max-width: 40em;
 }
 
+.post-content p, .post-content ul {
+  margin-bottom:1.4em;
+}
+
 #footer {
   font-size:0.7rem;
   position: absolute;
