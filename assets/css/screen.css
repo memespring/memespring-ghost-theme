@@ -8,6 +8,7 @@ body {
   /* Margin bottom by footer height */
   font-family:Arvo, serif;
   font-size:21px;
+  letter-spacing: -0.03em;
 }
 
 .container {
@@ -29,7 +30,7 @@ h1 {
 }
 
 h1.post-title{
-  margin-bottom:1em;
+  margin-bottom:0.5em;
 }
 
 h2{
